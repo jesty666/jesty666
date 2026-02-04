@@ -5,6 +5,7 @@
 - 💬 Ask me about anything related to Kotlin/App.
 - 📫 How to reach me: 1980963713@qq.com
 - 😄 Read more about my Blog: [here](none)
+- ![intro](https://github.com/taxeric/taxeric/blob/main/3.gif?raw=true)
 
 
 ### About me
