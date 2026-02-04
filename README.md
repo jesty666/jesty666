@@ -12,4 +12,4 @@
 
 - Android (Kotlin), Typescript, Vue Nodejs Developer.
 - Also good at a little Python, C++.
-- Currently working [ChatLuna](https://github.com/jesty688/rocoapp).
+- Currently working [RocoApp](https://github.com/jesty688/rocoapp).
